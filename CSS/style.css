@@ -1,0 +1,37 @@
+
+.logo{width: 300px;
+margin: 0 auto;
+background-color: blue;}
+
+h1{text-align: center;
+    }
+
+    section{display: flex;
+        width: 950px;
+        margin: 0 auto;
+       
+    justify-content: space-evenly;
+align-items: center;
+}
+p{text-align: center;
+font-weight: 700;
+color: green;}
+footer{background-color: gray;}
+
+article{display: flex;
+justify-content: space-evenly;
+align-items: center;
+color: white;
+width: 800px;
+height: 300px;
+margin: 0 auto;
+padding: 15px;}
+
+section{margin-bottom: 100px;}
+.banner{text-align: center;
+color: grey;}
+
+
+
+.card-title{text-align: center;}
+.card{border: none;}
